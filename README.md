@@ -31,5 +31,4 @@ Esse repo foi começado no dia 15/10/2022 e terminado no dia 09/12/2022, essas f
 ![](https://camo.githubusercontent.com/f5a8be1c0fed497b447e2c1d6930854ef9aa9f4c96967dd1e902653ce14c0a58/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3638393230313539383630353638383936302f3930333733383330323334313939363633342f73637265656e73686f74333137352e6a7067)
 
 - # [-Megumin2k](https://osuskins.net/skin/CxQV7Bv)
-![]
-(https://osuskins.net/screenshots/CxQV7Bv.jpg)
+![](https://osuskins.net/screenshots/CxQV7Bv.jpg)
