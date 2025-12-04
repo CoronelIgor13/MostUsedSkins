@@ -2,7 +2,7 @@
 
 # Agradecimento especial para vamped.#7168 que produziu a skin AquaNel.
 
-Esse repo foi começado no dia 15/10/2022 e terminado no dia 09/12/2022, essas foram as skins mais usadas por mim nesse período. 
+Esse repo começou no dia 15/10/2022 e terminou no dia 09/12/2022, essas foram as skins mais usadas por mim nesse período. 
 
 - # TIKTOK Bacon boi (Coronel Igor EDIT)
 [Sem Trail](https://drive.google.com/file/d/16rV26Y4zDnltEQS-yTDTiEeph3Tocz4j/view)
